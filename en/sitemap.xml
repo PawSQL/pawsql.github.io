@@ -81,12 +81,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.pawsql.com/pawreference/ActivationCodeforPlugin/</loc>
+         <lastmod>2023-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.pawsql.com/pawreference/Projection%20Pushdown/</loc>
          <lastmod>2023-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/Query%20Folding/</loc>
+         <lastmod>2023-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pawsql.com/pawreference/RuleQueryFoldingRewrite/</loc>
          <lastmod>2023-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -102,6 +112,11 @@
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/rewrite-rules/</loc>
+         <lastmod>2023-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pawsql.com/pawreference/sat-tc/</loc>
          <lastmod>2023-01-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
