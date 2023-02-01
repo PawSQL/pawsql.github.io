@@ -3,7 +3,6 @@ html {
   box-sizing: border-box;
   -webkit-text-size-adjust: none;
      -moz-text-size-adjust: none;
-      -ms-text-size-adjust: none;
           text-size-adjust: none;
 }
 
@@ -386,7 +385,6 @@ kbd {
     position: absolute;
     display: inline-block;
     width: auto;
-    min-width: -moz-max-content;
     min-width: max-content;
     max-width: 80%;
     margin-top: 2em;
@@ -433,7 +431,6 @@ kbd {
     display: inline-block;
     width: auto;
     min-width: -webkit-max-content;
-    min-width: -moz-max-content;
     min-width: max-content;
     max-width: 80%;
     margin-top: 2em;
@@ -1812,8 +1809,7 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
     overflow-y: auto;
     background-color: var(--md-default-bg-color);
     box-shadow: 0 0.05rem 0 var(--md-default-fg-color--lightest) inset;
-    -ms-scroll-snap-type: y mandatory;
-        scroll-snap-type: y mandatory;
+    scroll-snap-type: y mandatory;
     touch-action: pan-y;
   }
   .md-nav--primary .md-nav__title ~ .md-nav__list > :first-child {
@@ -2284,15 +2280,8 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
   text-overflow: ellipsis;
   background: transparent;
 }
-.md-search__input::-ms-input-placeholder {
-  -ms-transition: color 250ms;
-  transition: color 250ms;
-}
 .md-search__input::placeholder {
   transition: color 250ms;
-}
-.md-search__input::-ms-input-placeholder {
-  color: var(--md-default-fg-color--light);
 }
 .md-search__input ~ .md-search__icon, .md-search__input::placeholder {
   color: var(--md-default-fg-color--light);
@@ -2318,9 +2307,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
     color: inherit;
     font-size: 0.8rem;
   }
-  .md-search__input::-ms-input-placeholder {
-    color: var(--md-primary-bg-color--light);
-  }
   .md-search__input::placeholder {
     color: var(--md-primary-bg-color--light);
   }
@@ -2329,9 +2315,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
   }
   [data-md-toggle=search]:checked ~ .md-header .md-search__input {
     text-overflow: clip;
-  }
-  [data-md-toggle=search]:checked ~ .md-header .md-search__input::-ms-input-placeholder {
-    color: var(--md-default-fg-color--light);
   }
   [data-md-toggle=search]:checked ~ .md-header .md-search__input + .md-search__icon, [data-md-toggle=search]:checked ~ .md-header .md-search__input::placeholder {
     color: var(--md-default-fg-color--light);
@@ -2574,7 +2557,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
   list-style: none;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .md-search-result__item {
@@ -2875,8 +2857,7 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
     bottom: 0;
     left: 0;
     margin: 0;
-    -ms-scroll-snap-type: none;
-        scroll-snap-type: none;
+    scroll-snap-type: none;
     overflow: hidden;
   }
 }
@@ -3359,7 +3340,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
 :not(:focus-within) > .md-annotation__inner {
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
   pointer-events: none;
 }
@@ -3372,7 +3352,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
   transition: z-index 250ms;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .md-annotation__index::after {
@@ -3568,8 +3547,7 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
   box-shadow: var(--md-shadow-z2);
   opacity: 0;
   transition: max-height 0ms 500ms, opacity 250ms 250ms;
-  -ms-scroll-snap-type: y mandatory;
-      scroll-snap-type: y mandatory;
+  scroll-snap-type: y mandatory;
 }
 .md-version:-webkit-any(:focus-within, :hover) .md-version__list {
   max-height: 10rem;
@@ -4923,7 +4901,6 @@ html .md-typeset .footnote-ref {
 }
 .md-typeset div.arithmatex > * {
   width: -webkit-min-content;
-  width: -moz-min-content;
   width: min-content;
   margin-left: auto !important;
   margin-right: auto !important;
@@ -5266,7 +5243,6 @@ html .md-typeset .footnote-ref {
   content: attr(data-linenos);
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .highlight code a[id] {
@@ -5318,7 +5294,6 @@ html .md-typeset .footnote-ref {
   border-bottom-left-radius: 0.1rem;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .highlighttable .linenodiv {
