@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.pawsql.com/pawcloud/introduction/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/</loc>
          <lastmod>2023-02-01</lastmod>
          <changefreq>daily</changefreq>
@@ -82,6 +87,16 @@
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/ActivationCodeforPlugin/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pawsql.com/pawreference/JoinElimination/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pawsql.com/pawreference/Outer2Inner/</loc>
          <lastmod>2023-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>

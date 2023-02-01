@@ -91,6 +91,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.pawsql.com/pawreference/JoinElimination/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pawsql.com/pawreference/Outer2Inner/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.pawsql.com/pawreference/Projection%20Pushdown/</loc>
          <lastmod>2023-02-01</lastmod>
          <changefreq>daily</changefreq>
