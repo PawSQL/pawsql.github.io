@@ -11,8 +11,13 @@
           console.log('当前浏览器默认语言为中文');
           lang = "zh";
         }
-        window.location.href = current + "/" + lang +"/";
-        location.href = current + "/" + lang +"/";
+        var domain = "docs.pawsql.com";
+        var current = window.location.href;
+
+
+        var target = current.substring(current.indexOf('/', current.indexOf(':') + 3));
+        window.location.href = "//" + domain + "/" + lang + target;
+        location.href = "//" + domain + "/" + lang + target;
     </script>
     <body>
         redirecting to docs.pawsql.com ...
