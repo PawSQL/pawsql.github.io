@@ -1435,7 +1435,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
 }
 
 .md-header {
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
   left: 0;
@@ -2812,7 +2811,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
 }
 
 .md-sidebar {
-  position: -webkit-sticky;
   position: sticky;
   top: 2.4rem;
   flex-shrink: 0;
@@ -5229,7 +5227,6 @@ html .md-typeset .footnote-ref {
   border-top-right-radius: 0;
 }
 .highlight [data-linenos]::before {
-  position: -webkit-sticky;
   position: sticky;
   left: -1.1764705882em;
   z-index: 3;
