@@ -2,172 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.pawsql.com/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pawsql.com/eula/</loc>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/license/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/readme/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/blog/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/blog/2022/four_pitfalls_null_processing/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/blog/2022/top5_sql_optimization_tools/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawcloud/introduction/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/change-log/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/command-line/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/configuration/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/configuration2/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/eula/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/intellij-plugin/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/recommended-indexes/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawindexadvisor/what-if-validation/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/ActivationCodeforPlugin/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/JoinElimination/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/Outer2Inner/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/Projection%20Pushdown/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/Query%20Folding/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/RuleQueryFoldingRewrite/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/audit-rules/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/datatype-mismatching/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/rewrite-rules/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/sat-tc/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawreference/sql-syntax/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pawsql.com/pawsqladvisor/</loc>
-         <lastmod>2023-04-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pawsql.com/pawsqladvisor/change-log/</loc>
-         <lastmod>2023-04-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pawsql.com/pawsqladvisor/configuration/</loc>
-         <lastmod>2023-04-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pawsql.com/pawsqladvisor/eula/</loc>
-         <lastmod>2023-04-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pawsql.com/pawsqladvisor/pawsummary/</loc>
-         <lastmod>2023-04-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pawsql.com/pawsqladvisor/tuningdetails/</loc>
-         <lastmod>2023-04-24</lastmod>
+         <lastmod>2023-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -2555,7 +2555,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
   padding: 0;
   list-style: none;
   -webkit-user-select: none;
-     -moz-user-select: none;
           user-select: none;
 }
 .md-search-result__item {
@@ -3337,7 +3336,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
 }
 :not(:focus-within) > .md-annotation__inner {
   -webkit-user-select: none;
-     -moz-user-select: none;
           user-select: none;
   pointer-events: none;
 }
@@ -3349,7 +3347,6 @@ html .md-footer-meta.md-typeset a:is(:focus, :hover) {
   cursor: pointer;
   transition: z-index 250ms;
   -webkit-user-select: none;
-     -moz-user-select: none;
           user-select: none;
 }
 .md-annotation__index::after {
@@ -5239,7 +5236,6 @@ html .md-typeset .footnote-ref {
   box-shadow: -0.05rem 0 var(--md-default-fg-color--lightest) inset;
   content: attr(data-linenos);
   -webkit-user-select: none;
-     -moz-user-select: none;
           user-select: none;
 }
 .highlight code a[id] {
@@ -5290,7 +5286,6 @@ html .md-typeset .footnote-ref {
   border-top-left-radius: 0.1rem;
   border-bottom-left-radius: 0.1rem;
   -webkit-user-select: none;
-     -moz-user-select: none;
           user-select: none;
 }
 .highlighttable .linenodiv {
